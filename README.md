@@ -1,3 +1,3 @@
 # tamburelloai.github.io
 
-<a href="./html/backend.html">Link to Page</a>
+<a href="./backend.html">Link to Page</a>
